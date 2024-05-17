@@ -135,5 +135,43 @@
       "correctOption": 3,
       "points": 20
     }
+  ],
+  "cities": [
+    {
+      "id": "f30c",
+      "cityName": "Amdjarass",
+      "country": "Chad",
+      "emoji": "🇹🇩",
+      "date": "2024-05-17T09:34:58.223Z",
+      "notes": "",
+      "position": {
+        "lat": "18.30331189702173",
+        "lng": "22.763671875000004"
+      }
+    },
+    {
+      "id": "2890",
+      "cityName": "Mayom",
+      "country": "South Sudan",
+      "emoji": "🇸🇸",
+      "date": "2024-05-17T09:35:01.122Z",
+      "notes": "",
+      "position": {
+        "lat": "9.16606057607786",
+        "lng": "28.828125000000004"
+      }
+    },
+    {
+      "id": "f576",
+      "cityName": "Lodja",
+      "country": "Congo (the Democratic Republic of the)",
+      "emoji": "🇨🇩",
+      "date": "2024-05-17T09:35:04.808Z",
+      "notes": "",
+      "position": {
+        "lat": "-3.275078562507077",
+        "lng": "23.5546875"
+      }
+    }
   ]
 }
